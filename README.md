@@ -4,7 +4,7 @@ This a react app to search github repositories. The app allows the user to bookm
 Bookmarked repositories are stored on the user's session. This is done on a node.js server running express.
 
 To run the project properly you must first build the client side.<br>
-To build the react app, from the root directory navigate to `client/` 
+To build the react app, from the root directory navigate to `client/` and run the following command:
 ### `npm run build`
 
 After that, navigate to the `server/` directory and run the following command:
