@@ -1,7 +1,7 @@
 
 ## Github Repository Search
 This a react app to search github repositories. The app allows the user to bookmark repositories.<br>
-Bookmarked repositories are stored on the user's session. This is done on a node.js server running express.
+Bookmarked repositories are stored on the user's session. This is done using a node.js server running express.
 
 To run the project properly you must first build the client side.<br>
 To build the react app, from the root directory navigate to `client/` and run the following command:
