@@ -1,0 +1,33 @@
+{
+  "name": "repo-search",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyDroX/repo-search.git"
+  },
+  "keywords": [
+    "react",
+    "node.js",
+    "github-repos",
+    "search",
+    "express-session"
+  ],
+  "author": "Kostya Sydoruk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyDroX/repo-search/issues"
+  },
+  "homepage": "https://github.com/SyDroX/repo-search#readme"
+}
